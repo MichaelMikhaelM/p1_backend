@@ -23,11 +23,13 @@ In this social network, everyone is friends with everyone. As a user, you will b
 <ul>
 <li>Java - version 1.8.</li>
 <li>Apache Maven - version 3.8.4.</li>
+<li>Angular - version 17.3.0.</li>  
 </ul>
 
 To use the application
-download the repository:`https://github.com/MichaelMikhaelM/p2_backend`.
-Go to the downloaded repository directory and run the command `mvn clean install`.
+download the backend repository:`git clone https://github.com/MichaelMikhaelM/p2_backend`.
+Go to the downloaded repository directory and run the command `mvn clean install`. Download the frontend repository using `git clone https://github.com/MichaelMikhaelM/p2_frontend`, go to the frontend repository directroy and run `npm install` and then `ng build` to build the angular project.
+
 
 <h2>Contributors</h2>
 <ul>
