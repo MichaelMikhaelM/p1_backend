@@ -29,6 +29,13 @@ To use the application
 download the repository:`https://github.com/MichaelMikhaelM/p1_backend`.
 Go to the downloaded repository directory and run the command `mvn clean install`.
 
-<h2>Usage</h2>
-Input your credentials to login, once logged in you will be redirected to your homepage depending on your role, if you are an employee you can view your past reimbursements by clicking on "View Reimbursements" button, to submitt a new reimbursement click on "Create Reimbursement" button. If you are a finance manager click on "Manage Reimbursements" to view all the reimbursements, you can also filter the reimbursements by thier status.
+<h2>Contributors</h2>
+<ul>
+  <li>Alfred Garcia</li>
+  <li>Angel Depena</li>
+  <li>Jakarai Forsythe</li>
+  <li>Michael Mikhael</li>
+</ul>  
+  
+
 
