@@ -26,7 +26,7 @@ In this social network, everyone is friends with everyone. As a user, you will b
 </ul>
 
 To use the application
-download the repository:`https://github.com/MichaelMikhaelM/p1_backend`.
+download the repository:`https://github.com/MichaelMikhaelM/p2_backend`.
 Go to the downloaded repository directory and run the command `mvn clean install`.
 
 <h2>Contributors</h2>
