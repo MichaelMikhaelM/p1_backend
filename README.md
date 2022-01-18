@@ -6,9 +6,7 @@ In this social network, everyone is friends with everyone. As a user, you will b
 <li>Java - version 1.8.</li>
 <li>Postgresql - version 42.3.1.</li>
 <li>Javalin - version 4.1.1.</li>
-<li>HTML - version 5.</li>
-<li>CSS - version 2.1.</li>
-<li>JavaScript - version ES2015.</li>
+<li>Angular - version 17.3.0.</li>
 <li>JUnit - version 5.8.1.</li>
 <li>Mockito - version 4.0.0.</li>
 <li>Selenium - version 4.1.0.</li>
